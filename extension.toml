@@ -1,0 +1,7 @@
+id = "zed-extension-laravel-gotoview"
+name = "Laravel GoToView"
+version = "0.0.1"
+schema_version = 1
+authors = ["Cristhofer Montalvo <cristhofermontalvo@gmail.com>"]
+description = "Go to view file in a Laravel project"
+repository = "https://github.com/CristhoferMF/zed-extension-laravel-gotoview"
